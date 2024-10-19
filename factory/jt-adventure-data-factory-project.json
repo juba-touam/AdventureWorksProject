@@ -1,0 +1,9 @@
+{
+	"name": "jt-adventure-data-factory-project",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9cc21b86-9f1d-4a34-a772-7e5be0929a9e",
+		"tenantId": "6f8522fa-bd75-4bef-b956-57e9b2a5d2cf"
+	}
+}
