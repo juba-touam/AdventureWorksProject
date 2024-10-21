@@ -1,7 +1,0 @@
-{
-	"name": "SIHR",
-	"properties": {
-		"type": "SelfHosted",
-		"description": "used to connect sql server"
-	}
-}
