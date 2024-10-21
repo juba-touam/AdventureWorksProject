@@ -10,7 +10,8 @@ For this project, we follow the steps shown in the schema below and describe eac
 
 ![image](https://github.com/user-attachments/assets/34af2982-af23-4107-a26d-51e5cfc0b81a)
 
-#1-Data Ingestion:
+# 1-Data Ingestion:
+
 We use a Self-hosted Integration Runtime to create a connection between SSMS and Azure Data Factory (ADF);
 We create a pipeline in ADF, and in the first step, we transfer all tables from the local server (SSMS) to the Azure Data Lake Bronze folder.
 
